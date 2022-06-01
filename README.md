@@ -26,6 +26,7 @@
   <h4 align="center">자연어처리</h4>
     <p align="center">
       <a href='https://github.com/LEEJONGHEON/self_introduce' >GPT Kobart 자소서생성 및요약</a>
+      <a href='[https://github.com/LEEJONGHEON/self_introduce](https://github.com/LEEJONGHEON/kor2eng)' >한->영 번역기</a>
     </p>
   <h4 align="center"><a>GAN 적대적 생성모델<a></h4>
    
