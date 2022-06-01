@@ -18,8 +18,10 @@
 <h3 align="center">AI Stack</h3>
 
 <p align="center">
-  <h4 align="center">이미지처리<</h4>
-  
+  <h4 align="center">이미지처리</h4>
+    <p align="center">
+      <a href='[https://github.com/LEEJONGHEON/self_introduce](https://colab.research.google.com/drive/1k_ixuEPRQM-DoaINwQjArC1R02QVqjRd?usp=sharing)'>강아지 품종예측</a>
+    </p>
   <h4 align="center">자연어처리</h4>
     <p align="center">
       <a href='https://github.com/LEEJONGHEON/self_introduce' >GPT Kobart 자소서생성 및요약</a>
