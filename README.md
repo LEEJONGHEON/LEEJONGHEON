@@ -38,4 +38,5 @@
   <h2>중국 노래추천</h2>
   <a href='https://youtu.be/cN8HUPG-JKI?list=RDMMcN8HUPG-JKI'> 像极了 </a>
   <a href='https://youtu.be/etW45uFN1fA?list=RDMMetW45uFN1fA'> 那些年 </a>
+  <a href='https://youtu.be/2emc4L37Pxc'> 小幸运 </a>
 </div>  
