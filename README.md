@@ -37,5 +37,5 @@
 <div>
   <h3>중국 노래추천</h3>
   <a href='https://youtu.be/cN8HUPG-JKI?list=RDMMcN8HUPG-JKI'> 像极了 </a>
-  <a href='[https://youtu.be/cN8HUPG-JKI?list=RDMMcN8HUPG-JKI](https://youtu.be/etW45uFN1fA?list=RDMMetW45uFN1fA)'> 那些年 </a>
+  <a href='https://youtu.be/etW45uFN1fA?list=RDMMetW45uFN1fA'> 那些年 </a>
 </div>  
