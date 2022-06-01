@@ -33,10 +33,17 @@
       <a>3.SRGAN</a>
     </p>
 </p>
+<h2 align="center">목표</h2>
+<p align="center">
+  <p>1.파이썬으로 퀀트투자하기(마이너스 주식수익률 살리기)</p>
+  <p>2.GAN 모델공부하기</p>
+  <p>3.사람 동작 pose-detection</p>
+<p/>
 
 <div>
   <h2>중국 노래추천</h2>
   <a href='https://youtu.be/cN8HUPG-JKI?list=RDMMcN8HUPG-JKI'> 像极了 </a>
   <a href='https://youtu.be/etW45uFN1fA?list=RDMMetW45uFN1fA'> 那些年 </a>
   <a href='https://youtu.be/2emc4L37Pxc'> 小幸运 </a>
+  <a href='https://youtu.be/2qj9ADcYjxs'> 我们不一样 </a>
 </div>  
