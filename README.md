@@ -14,3 +14,10 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
     
 </p>
+
+<h3 align="center">AI Stack</h3>
+<p>
+  <h4>이미지처리</h4>
+  <h4>자연어처리</h4>
+  <h4>GAN 적대적 생성모델</h4>
+</p>
