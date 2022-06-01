@@ -18,7 +18,12 @@
 <h3 align="center">AI Stack</h3>
 
 <p align="center">
-<h4 align="center"><a>이미지처리</a></h4>
-  <h4 align="center" ><a>자연어처리</a></h4>
+  <h4 align="center">이미지처리<</h4>
+  
+  <h4 align="center">자연어처리</h4>
+    <p align="center">
+      <a href='https://github.com/LEEJONGHEON/self_introduce' >GPT Kobart 자소서생성 및요약</a>
+    </p>
   <h4 align="center"><a>GAN 적대적 생성모델<a></h4>
+   
 </p>
