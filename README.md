@@ -20,13 +20,13 @@
 <p align="center">
   <h4 align="center">이미지처리</h4>
     <p align="center">
-      <a href='https://github.com/LEEJONGHEON/Dog-classification'>강아지 품종예측</a>
-      <a href='https://github.com/LEEJONGHEON/Yolov4'>음식 객체인식</a>
+      <a href='https://github.com/LEEJONGHEON/Dog-classification'>1.강아지 품종예측</a> &nbsp 
+      <a href='https://github.com/LEEJONGHEON/Yolov4'>2.음식 객체인식</a>
     </p>
   <h4 align="center">자연어처리</h4>
     <p align="center">
-      <a href='https://github.com/LEEJONGHEON/self_introduce' >GPT Kobart 자소서생성 및요약</a>
-      <a href='[https://github.com/LEEJONGHEON/self_introduce](https://github.com/LEEJONGHEON/kor2eng)' >한->영 번역기</a>
+      <a href='https://github.com/LEEJONGHEON/self_introduce' >1.GPT Kobart 자소서생성 및요약</a> &nbsp 
+      <a href='https://github.com/LEEJONGHEON/kor2eng' >2.한->영 번역기</a>
     </p>
   <h4 align="center"><a>GAN 적대적 생성모델<a></h4>
    
