@@ -1,5 +1,4 @@
 ![header](https://capsule-render.vercel.app/api?type=soft&color=auto&height=150&align=center&section=header&text=LEEJONGHEON&fontSize=70&animation=twinkling)
-
 <h2 align="center">Tech Stack</h2>
 
 <p align="center">
@@ -11,11 +10,10 @@
   <br>
   <img src="https://img.shields.io/badge/Django-092E20?style=flat-square&logo=Django&logoColor=white"/></a>&nbsp 
   <img src="https://img.shields.io/badge/Mysql-E6B91E?style=flat-square&logo=MySql&logoColor=white"/></a>&nbsp 
-  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp 
-    
+  <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp     
 </p>
 
-<h3 align="center">AI Stack</h3>
+<h2 align="center">AI Stack</h2>
 
 <p align="center">
   <h4 align="center">이미지처리</h4>
@@ -28,6 +26,10 @@
       <a href='https://github.com/LEEJONGHEON/self_introduce' >1.GPT Kobart 자소서생성 및요약</a> &nbsp 
       <a href='https://github.com/LEEJONGHEON/kor2eng' >2.한->영 번역기</a>
     </p>
-  <h4 align="center"><a>GAN 적대적 생성모델<a></h4>
-   
+  <h4 align="center">GAN 적대적 생성모델(현재진행중)</h4>
+    <p align="center">
+      <a>1.STYLEGAN</a> &nbsp 
+      <a>2.CYCLEGAN</a>
+      <a>3.SRGAN</a>
+    </p>
 </p>
