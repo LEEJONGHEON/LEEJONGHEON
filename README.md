@@ -16,8 +16,9 @@
 </p>
 
 <h3 align="center">AI Stack</h3>
-<p >
-  <h4>이미지처리</h4>
-  <h4>자연어처리</h4>
-  <h4>GAN 적대적 생성모델</h4>
+
+<p align="center">
+<h4><a>이미지처리</a></h4>
+  <h4><a>자연어처리</a></h4>
+  <h4><a>GAN 적대적 생성모델<a></h4>
 </p>
