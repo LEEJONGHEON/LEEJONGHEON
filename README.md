@@ -32,12 +32,13 @@
       <a>2.CYCLEGAN</a>
       <a>3.SRGAN</a>
     </p>
-</p>
 <h2 align="center">목표</h2>
 <p align="center">
   <p>1.파이썬으로 퀀트투자하기(마이너스 주식수익률 살리기)</p>
   <p>2.GAN 모델공부하기</p>
   <p>3.사람 동작 pose-detection</p>
+  <p>4.OCR</p>
+  <p>5.추천시스템</p>
 <p/>
 
 <div>
