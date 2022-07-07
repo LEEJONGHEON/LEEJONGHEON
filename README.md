@@ -26,6 +26,10 @@
       <a href='https://github.com/LEEJONGHEON/self_introduce' >1.GPT Kobart 자소서생성 및요약</a> &nbsp 
       <a href='https://github.com/LEEJONGHEON/kor2eng' >2.한->영 번역기</a>
     </p>
+  <h4 align="center">논문 정리</h4>
+    <p align="center">
+      <a href='https://github.com/LEEJONGHEON/Paper-Review' >논문 정리</a> &nbsp 
+    </p>
   <h4 align="center">GAN 적대적 생성모델(현재진행중)</h4>
     <p align="center">
       <a>1.STYLEGAN</a> &nbsp 
