@@ -30,7 +30,15 @@
     <p align="center">
       <a href='https://github.com/LEEJONGHEON/Paper-Review' >논문 정리</a> &nbsp 
     </p>
-  <h4 align="center">GAN 적대적 생성모델(현재진행중)</h4>
+  <h4 align="center">OCR(현재진행중)</h4>
+    <p align="center">
+      <a href='https://github.com/LEEJONGHEON/KO-OCR' >OCR</a> &nbsp 
+    </p>
+  <h4 align="center">추천 시스템(현재진행중)</h4>
+  <p align="center">
+    <a href='https://github.com/LEEJONGHEON/Recommender-system' >추천 시스템</a> &nbsp 
+  </p>
+  <h4 align="center">GAN 적대적 생성모델</h4>
     <p align="center">
       <a>1.STYLEGAN</a> &nbsp 
       <a>2.CYCLEGAN</a>
@@ -41,8 +49,6 @@
   <p>1.파이썬으로 퀀트투자하기</p>
   <p>2.GAN 모델공부하기</p>
   <p>3.사람 동작 pose-detection</p>
-  <p>4.OCR</p>
-  <p>5.추천시스템</p>
 <p/>
 
 <div>
