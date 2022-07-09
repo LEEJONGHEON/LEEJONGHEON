@@ -46,7 +46,7 @@
   <p align="center">
     <a href='https://github.com/LEEJONGHEON/docker' >Docker</a> &nbsp 
   </p>
-  <h4 align="center">aws</h4>
+  <h4 align="center">aws(현재 진행중)</h4>
   <p align="center">
     <a href='https://github.com/LEEJONGHEON/aws' >aws</a> &nbsp 
   </p>
