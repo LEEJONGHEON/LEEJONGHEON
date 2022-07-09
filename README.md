@@ -42,6 +42,14 @@
   <p align="center">
     <a href='https://github.com/LEEJONGHEON/Recommender-system' >추천 시스템</a> &nbsp 
   </p>
+  <h4 align="center">GAN 적대적 생성모델</h4>
+  <p align="center">
+    <a>1.STYLEGAN</a> &nbsp 
+    <a>2.CYCLEGAN</a>
+    <a>3.SRGAN</a>
+  </p>
+  
+  <h2 align="center">SW Engineering Stack</h2>
   <h4 align="center">Docker(현재 진행중)</h4>
   <p align="center">
     <a href='https://github.com/LEEJONGHEON/docker' >Docker</a> &nbsp 
@@ -50,12 +58,7 @@
   <p align="center">
     <a href='https://github.com/LEEJONGHEON/aws' >aws</a> &nbsp 
   </p>
-  <h4 align="center">GAN 적대적 생성모델</h4>
-    <p align="center">
-      <a>1.STYLEGAN</a> &nbsp 
-      <a>2.CYCLEGAN</a>
-      <a>3.SRGAN</a>
-    </p>
+
 <h2 align="center">목표</h2>
 <p align="center">
   <p>1.파이썬으로 퀀트투자하기</p>
