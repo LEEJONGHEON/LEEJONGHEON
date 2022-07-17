@@ -39,7 +39,7 @@
     <p align="center">
       <a href='https://github.com/LEEJONGHEON/Data-labeling' >Data Labeling</a> &nbsp 
     </p>
-  <h4 align="center">추천 시스템(현재진행중)</h4>
+  <h4 align="center">추천 시스템</h4>
   <p align="center">
     <a href='https://github.com/LEEJONGHEON/Recommender-system' >추천 시스템</a> &nbsp 
   </p>
