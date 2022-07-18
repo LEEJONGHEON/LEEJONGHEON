@@ -13,7 +13,6 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp     
 </p>
 
-
 <h2 align="center">AI Stack</h2>
 
 <p align="center">
