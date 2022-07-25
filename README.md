@@ -30,7 +30,7 @@
     <p align="center">
       <a href='https://github.com/LEEJONGHEON/Paper-Review' >논문 정리</a> &nbsp 
     </p>
-  <h4 align="center">OCR(현재진행중)</h4>
+  <h4 align="center">OCR</h4>
     <p align="center">
       <a href='https://github.com/LEEJONGHEON/KO-OCR' >OCR</a> &nbsp 
     </p>
