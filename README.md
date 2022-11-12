@@ -13,6 +13,14 @@
   <img src="https://img.shields.io/badge/aws-333664?style=flat-square&logo=amazon-aws&logoColor=white"/></a>&nbsp     
 </p>
 
+ 
+<h2 align="center">AI Researcher Stack</h2>
+
+<h4 align="center">Robustness Verification for Transformer</h4>
+<p align="center">
+  <a href='https://github.com/LEEJONGHEON/Dog-classification'>1.강아지 품종예측</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/Yolov4'>2.음식 객체인식</a>
+</p>
 
 <h2 align="center">AI Stack</h2>
 
@@ -49,31 +57,36 @@
 </p>
 
   
-  <h2 align="center">SW Engineering Stack</h2>
-  <h4 align="center">Docker(현재 진행중)</h4>
-  <p align="center">
-    <a href='https://github.com/LEEJONGHEON/docker' >Docker</a> &nbsp 
-  </p>
-  <h4 align="center">aws(현재 진행중)</h4>
-  <p align="center">
-    <a href='https://github.com/LEEJONGHEON/aws' >aws</a> &nbsp 
-  </p>
-    <h4 align="center">블록체인(현재진행중)</h4>
-  <p align="center">
-    <a href='https://github.com/LEEJONGHEON/Blockchain' >블록 체인</a> &nbsp 
-  </p>
-  <h4 align="center">Spark(미정)</h4>
-  <p align="center">
-    <a href='https://github.com/LEEJONGHEON/Spark' >Spark</a> &nbsp 
-  </p>
-  <h4 align="center">SQL(미정)</h4>
-  <p align="center">
-    <a href='https://github.com/LEEJONGHEON/SQL' >SQL</a> &nbsp 
-  </p>
+<h2 align="center">SW Engineering Stack</h2>
+
+<h4 align="center">Docker(현재 진행중)</h4>
+<p align="center">
+  <a href='https://github.com/LEEJONGHEON/docker' >Docker</a> &nbsp 
+</p>
   
+<h4 align="center">aws(현재 진행중)</h4>
+<p align="center">
+  <a href='https://github.com/LEEJONGHEON/aws' >aws</a> &nbsp 
+</p>
+
+  <h4 align="center">블록체인(현재진행중)</h4>
+<p align="center">
+  <a href='https://github.com/LEEJONGHEON/Blockchain' >블록 체인</a> &nbsp 
+</p>
+
+<h4 align="center">Spark(미정)</h4>
+<p align="center">
+  <a href='https://github.com/LEEJONGHEON/Spark' >Spark</a> &nbsp 
+</p>
+
+<h4 align="center">SQL(미정)</h4>
+<p align="center">
+  <a href='https://github.com/LEEJONGHEON/SQL' >SQL</a> &nbsp 
+</p>
   
+
+ 
 <h2 align="center">목표</h2>
 <p align="center">
   <p>1.파이썬으로 퀀트투자하기</p>
-  <p>2.Robustness Verification for Transformer 논문작성</p>
 <p/>
