@@ -18,8 +18,8 @@
 
 <h4 align="center">Robustness Verification for Transformer</h4>
 <p align="center">
-  <a href='https://github.com/LEEJONGHEON/Dog-classification'>1.강아지 품종예측</a> &nbsp 
-  <a href='https://github.com/LEEJONGHEON/Yolov4'>2.음식 객체인식</a>
+  <a href='#'>1.논문정리</a> &nbsp 
+
 </p>
 
 <h2 align="center">AI Stack</h2>
