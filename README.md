@@ -46,7 +46,7 @@
   <a href='https://github.com/LEEJONGHEON/KO-OCR' >OCR</a> &nbsp 
 </p>
 
-<h4 align="center">Data Labeling교육(현재진행중)</h4>
+<h4 align="center">Data Labeling교육</h4>
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/Data-labeling' >Data Labeling</a> &nbsp 
 </p>
@@ -59,34 +59,31 @@
   
 <h2 align="center">SW Engineering Stack</h2>
 
-<h4 align="center">Docker(현재 진행중)</h4>
+<h4 align="center">Docker</h4>
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/docker' >Docker</a> &nbsp 
 </p>
   
-<h4 align="center">aws(현재 진행중)</h4>
+<h4 align="center">aws</h4>
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/aws' >aws</a> &nbsp 
 </p>
 
-  <h4 align="center">블록체인(현재진행중)</h4>
+  <h4 align="center">블록체인</h4>
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/Blockchain' >블록 체인</a> &nbsp 
 </p>
 
-<h4 align="center">Spark(미정)</h4>
+<h4 align="center">Spark</h4>
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/Spark' >Spark</a> &nbsp 
 </p>
 
-<h4 align="center">SQL(미정)</h4>
+<h4 align="center">SQL</h4>
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/SQL' >SQL</a> &nbsp 
 </p>
   
-
- 
 <h2 align="center">목표</h2>
-<p align="center">
-  <p>1.파이썬으로 퀀트투자하기</p>
-<p/>
+<h4 align="center">파이썬으로 퀀트투자하기</h4>
+
