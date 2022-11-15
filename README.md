@@ -28,6 +28,7 @@
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/Dog-classification'>1.강아지 품종예측</a> &nbsp 
   <a href='https://github.com/LEEJONGHEON/Yolov4'>2.음식 객체인식</a>
+  <a href='https://github.com/LEEJONGHEON/KO-OCR'>3.OCR</a> &nbsp 
 </p>
 
 <h4 align="center">자연어처리</h4>
@@ -39,11 +40,6 @@
 <h4 align="center">논문 정리</h4>
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/Paper-Review' >논문 정리</a> &nbsp 
-</p>
-
-<h4 align="center">OCR</h4>
-<p align="center">
-  <a href='https://github.com/LEEJONGHEON/KO-OCR' >OCR</a> &nbsp 
 </p>
 
 <h4 align="center">Data Labeling교육</h4>
