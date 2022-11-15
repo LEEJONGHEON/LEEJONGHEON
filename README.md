@@ -18,7 +18,7 @@
 
 <h4 align="center">Robustness Verification for Transformer</h4>
 <p align="center">
-  <a href='#'>1.논문정리</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/Robstness-verfication-for-Transformer'>1.논문정리</a> &nbsp 
 
 </p>
 
@@ -83,7 +83,3 @@
 <p align="center">
   <a href='https://github.com/LEEJONGHEON/SQL' >SQL</a> &nbsp 
 </p>
-  
-<h2 align="center">목표</h2>
-<h4 align="center">파이썬으로 퀀트투자하기</h4>
-
