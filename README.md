@@ -86,10 +86,10 @@
 
 <h4 align="center">FASTAPI</h4>
 <p align="center">
-  <a href='https://github.com/LEEJONGHEON/FASTAPI' >SQL</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/FASTAPI'>FASTAPI</a> &nbsp 
 </p>
 
-<h4 align="center">REACT/h4>
+<h4 align="center">REACT</h4>
 <p align="center">
-  <a href='https://github.com/LEEJONGHEON/' >SQL</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/REACT'>REACT</a> &nbsp 
 </p>
