@@ -63,10 +63,12 @@
 
 <h4 align="center">Web Front-end & Back-end</h4>
 <p align="center">
-  <a href='https://github.com/LEEJONGHEON/FASTAPI'>FASTAPI</a> &nbsp 
-  <a href='https://github.com/LEEJONGHEON/REACT'>REACT</a> &nbsp 
-  <a href='https://github.com/LEEJONGHEON/MONGODB'>MONGODB</a> &nbsp 
-  <a href=''>Three.js</a> &nbsp
+  <a href='https://github.com/LEEJONGHEON/FASTAPI'>Fast API</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/REACT'>React</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/MONGODB'>Mongo DB</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/KakaoMap'>Kakao Map</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/study_summarization'>study</a> &nbsp 
+  <a href='https://github.com/LEEJONGHEON/study_summarization'>study</a> &nbsp 
 </p>
 
   <h4 align="center">블록체인</h4>
